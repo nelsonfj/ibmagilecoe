@@ -1,2 +1,3 @@
 	name: IBM AGILE COE
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
